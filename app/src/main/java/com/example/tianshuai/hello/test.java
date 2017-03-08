@@ -5,4 +5,7 @@ package com.example.tianshuai.hello;
  */
 
 public class test {
+    private String a="two";
+
+    private int b=0;
 }
