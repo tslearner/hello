@@ -7,4 +7,5 @@ package com.example.tianshuai.hello;
 public class test {
     private int b=0;
     private String a="one";
+    int c=4;
 }
