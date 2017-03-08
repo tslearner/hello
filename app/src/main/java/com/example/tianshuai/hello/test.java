@@ -6,4 +6,5 @@ package com.example.tianshuai.hello;
 
 public class test {
     private String a="one";
+    int c=2;
 }
