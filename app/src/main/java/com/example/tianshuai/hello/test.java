@@ -9,6 +9,6 @@ public class test {
     private String a="one";
     int c=2;
     int d=6;
-    int f=0;
+    int f=1;
     int h=1;
 }
